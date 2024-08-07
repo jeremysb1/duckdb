@@ -1,1 +1,1 @@
-# duckdb
+# DuckDB Projects
