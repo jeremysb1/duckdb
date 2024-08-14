@@ -1,6 +1,4 @@
 # DuckDB Projects
 
-SQL
-- using DDL queries to create target schema
-
-Streamlit data apps
+1. SQL
+2. Streamlit data apps
